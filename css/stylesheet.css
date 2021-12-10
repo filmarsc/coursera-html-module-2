@@ -38,6 +38,7 @@ h2 {
 .title-box {
 	padding: 5px;
 	width: 200px;
+	max-width: 101%;
 	float: right;
 	position: relative;
 	top: -1px;
